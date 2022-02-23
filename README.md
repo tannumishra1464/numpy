@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tannumishra1464
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Numpy in python
 
-<!---
-tannumishra1464/tannumishra1464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import numpy as np
+myarr = np.array([[6,4,34,67]],np.int64)
+myarr
