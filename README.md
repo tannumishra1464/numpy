@@ -1,4 +1,4 @@
-#Welcome to numpy module.
+# Welcome to numpy module.
 import numpy as np
 myarr = np.array([[6,4,34,67]],np.int64)
 myarr
@@ -15,7 +15,7 @@ myarr[0,1] = 45
 myarr
 array([[ 6, 45, 34, 67]])
 
-#Array creation : Conversion from other python structures.
+# Array creation : Conversion from other python structures.
 list1 = np.array([[1,2,3],[4,5,6],[5,0,5]])
 list1
 array([[1, 2, 3],
